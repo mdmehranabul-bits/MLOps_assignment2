@@ -1,2 +1,2 @@
 # MLOps_assignment2
-Submission for assignment 2 of MLOps
+This MLOps pipeline was designed and implemented for the Fashion MNIST dataset to ensure continuous improvement, explainability, and efficient model management. 
