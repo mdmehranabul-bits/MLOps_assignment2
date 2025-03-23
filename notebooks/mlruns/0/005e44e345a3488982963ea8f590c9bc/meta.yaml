@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/0/005e44e345a3488982963ea8f590c9bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 005e44e345a3488982963ea8f590c9bc
+run_name: charming-yak-450
+run_uuid: 005e44e345a3488982963ea8f590c9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742750467953
+status: 1
+tags: []
+user_id: mdmehran
