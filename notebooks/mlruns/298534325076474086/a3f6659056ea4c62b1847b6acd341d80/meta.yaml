@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/a3f6659056ea4c62b1847b6acd341d80/artifacts
+end_time: 1742733123096
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: a3f6659056ea4c62b1847b6acd341d80
+run_name: marvelous-sheep-179
+run_uuid: a3f6659056ea4c62b1847b6acd341d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742733123068
+status: 4
+tags: []
+user_id: mdmehran

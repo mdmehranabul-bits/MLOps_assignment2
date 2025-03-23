@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/870ec451440742c58befadd61587143a/artifacts
+end_time: 1742733010826
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: 870ec451440742c58befadd61587143a
+run_name: melodic-calf-932
+run_uuid: 870ec451440742c58befadd61587143a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742733010815
+status: 4
+tags: []
+user_id: mdmehran

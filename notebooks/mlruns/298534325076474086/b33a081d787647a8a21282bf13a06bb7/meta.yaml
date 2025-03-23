@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/b33a081d787647a8a21282bf13a06bb7/artifacts
+end_time: 1742732451164
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: b33a081d787647a8a21282bf13a06bb7
+run_name: dapper-wolf-428
+run_uuid: b33a081d787647a8a21282bf13a06bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742732451156
+status: 4
+tags: []
+user_id: mdmehran

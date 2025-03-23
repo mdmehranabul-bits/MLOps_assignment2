@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/6d110cfd7290425fbd3aa2e861067f6f/artifacts
+end_time: 1742733160809
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: 6d110cfd7290425fbd3aa2e861067f6f
+run_name: resilient-sow-864
+run_uuid: 6d110cfd7290425fbd3aa2e861067f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742733130691
+status: 4
+tags: []
+user_id: mdmehran

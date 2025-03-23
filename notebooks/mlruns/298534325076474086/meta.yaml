@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086
+creation_time: 1742732451045
+experiment_id: '298534325076474086'
+last_update_time: 1742732451045
+lifecycle_stage: active
+name: fashion_mnist_experiment

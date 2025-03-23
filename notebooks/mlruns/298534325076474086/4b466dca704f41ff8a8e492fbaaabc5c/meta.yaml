@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/4b466dca704f41ff8a8e492fbaaabc5c/artifacts
+end_time: 1742733668357
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: 4b466dca704f41ff8a8e492fbaaabc5c
+run_name: fun-sloth-601
+run_uuid: 4b466dca704f41ff8a8e492fbaaabc5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742733274181
+status: 3
+tags: []
+user_id: mdmehran
