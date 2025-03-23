@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdmehran/Desktop/Miscellaneous/MLOps_Assignment2/notebooks/mlruns/298534325076474086/392616cff64043b4a51b631fc0172264/artifacts
+end_time: 1742745774448
+entry_point_name: ''
+experiment_id: '298534325076474086'
+lifecycle_stage: active
+run_id: 392616cff64043b4a51b631fc0172264
+run_name: bittersweet-hen-514
+run_uuid: 392616cff64043b4a51b631fc0172264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742745428816
+status: 4
+tags: []
+user_id: mdmehran
